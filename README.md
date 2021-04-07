@@ -36,4 +36,5 @@ Collection of undergraduate homework and labs and other.
 | 2021寒假 | 知乎热榜定时爬虫                 | [ZhiHu-Top-Spider](https://github.com/KuangjuX/ZhiHu-Top-Spider) |
 | 2021寒假 | 手写递归下降json解析器（未完成） | [leptjson](https://github.com/KuangjuX/leptjson)             |
 | 2021寒假 | 博客社区后端                     | [Langhuan-Blessed-Land](https://github.com/KuangjuX/Langhuan-Blessed-Land) |
+| 2021寒假 | rCore                            | [rCore](https://github.com/KuangjuX/rCore)                   |
 
