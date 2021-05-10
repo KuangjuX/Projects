@@ -23,9 +23,10 @@ Collection of undergraduate homework and labs and other.
 
 ### 比赛项目
 
-| 时间     | 比赛   | 项目                                             |
-| -------- | ------ | ------------------------------------------------ |
-| 2021春季 | OSCOMP | [xv6-rust](https://github.com/Ko-oK-OS/xv6-rust) |
+| 时间     | 比赛   | 项目                                             | 描述 |
+| -------- | ------ | ------------------------------------------------ |------|
+| 2021春季 | OSCOMP | [xv6-rust](https://github.com/Ko-oK-OS/xv6-rust) |使用Rust对xv6-riscv的重新实现|
+| 2021春季 | OSCOMP | [allocator](https://github.com/Ko-oK-OS/allocator) |伙伴内存分配系统|
 
 ### 个人参与的项目
 
