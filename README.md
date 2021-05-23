@@ -18,7 +18,7 @@ Collection of undergraduate homework and labs and other.
 | 2021春季 | 数据库原理         | [DBS-Lab](https://github.com/KuangjuX/DBS-Lab)               |
 | 2021春季 | 并行计算           | [Parallel-Lab](https://github.com/KuangjuX/Parallel-Lab)     |
 | 2021春季 | 数字逻辑与数字系统 | [Digital-Lab](https://github.com/KuangjuX/Digital-Lab)       |
-| 2021春季 | 计算机网络         | [Rust-Chat](https://github.com/KuangjuX/Rust-Chat), [RTP](https://github.com/KuangjuX/RTP) |
+| 2021春季 | 计算机网络         | [Network-Lab](https://github.com/KuangjuX/Network-Lab) |
 | 2021春季 | 人工智能基础       | [AI-Lab](https://github.com/KuangjuX/AI-Lab)                 |
 
 ### 比赛项目
