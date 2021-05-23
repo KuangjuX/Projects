@@ -14,7 +14,7 @@ Collection of undergraduate homework and labs and other.
 | 2020秋季 | 算法设计与分析     | [Algorithm-Lab](https://github.com/KuangjuX/Algorithm-Lab)   |
 | 2020秋季 | 操作系统           | [OS-Lab](https://github.com/KuangjuX/OS-Lab) |
 | 2020秋季 | 计算机系统实践     | [NEMU](https://github.com/KuangjuX/NEMU2020)                 |
-| 2021春季 | 程序设计实践       | [programme-pratice-lab](https://github.com/KuangjuX/programme-pratice-lab) |
+| 2021春季 | 程序设计实践       | [Programing-Lab](https://github.com/KuangjuX/Programing-Lab) |
 | 2021春季 | 数据库原理         | [DBS-Lab](https://github.com/KuangjuX/DBS-Lab)               |
 | 2021春季 | 并行计算           | [Parallel-Lab](https://github.com/KuangjuX/Parallel-Lab)     |
 | 2021春季 | 数字逻辑与数字系统 | [Digital-Lab](https://github.com/KuangjuX/Digital-Lab)       |
