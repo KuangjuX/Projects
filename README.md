@@ -40,4 +40,4 @@ Collection of undergraduate homework and labs and other.
 | 2021寒假 | 手写递归下降json解析器（未完成） | [leptjson](https://github.com/KuangjuX/leptjson)             |
 | 2021寒假 | 博客社区后端                     | [Langhuan-Blessed-Land](https://github.com/KuangjuX/Langhuan-Blessed-Land) |
 | 2021寒假 | rCore                            | [rCore](https://github.com/KuangjuX/rCore)                   |
-
+| 2021春季 | 使用Typora代替LaTex编写天津大学课程论文                 |[TJU-typora-latex-theme](https://github.com/KuangjuX/TJU-typora-latex-theme)        |
