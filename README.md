@@ -22,6 +22,12 @@ Collection of undergraduate homework and labs and other.
 | 2021春季 | 人工智能基础       | [AI-Lab](https://github.com/KuangjuX/AI-Lab)                 |
 | 2021小学期| 计算机网络实践    | [TrivialTCP](https://github.com/KuangjuX/TrivialTCP)        |
 
+### 一些我个人所学课程
+| 时间     | 课程               | 项目                                                         |
+| -------- | ------------------ | ------------------------------------------------------------ |
+| 2021秋季 | 分布式系统     | [6.824](https://github.com/KuangjuX/6.824)           |
+
+
 ### 比赛项目
 
 | 时间     | 比赛   | 项目                                             | 描述 |
