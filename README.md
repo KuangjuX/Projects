@@ -25,6 +25,7 @@ Collection of undergraduate homework and labs and other.
 | 2021 秋季 | 计算机体系结构    | [MIPSCPU](https://github.com/KuangjuX/MIPSCPU)              |
 | 2021 秋季 | 异构计算         | [Heterogeneous-Lab](https://github.com/KuangjuX/Heterogeneous-Lab) |
 | 2021 秋季 | 计算机图形学      | [Graphics-Lab](https://github.com/KuangjuX/Graphics-Lab)|
+| 2021 秋季 | 数值分析         | [Numerical-Analysis](https://github.com/KuangjuX/Numerical-Analysis) |
 
 ### 一些我个人所学课程
 | 时间     | 课程               | 项目                                                         |
