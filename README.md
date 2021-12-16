@@ -22,7 +22,7 @@ Collection of undergraduate homework and labs and other.
 | 2021春季 | 人工智能基础       | [AI-Lab](https://github.com/KuangjuX/AI-Lab)                 |
 | 2021小学期| 计算机网络实践    | [TrivialTCP](https://github.com/KuangjuX/TrivialTCP)        |
 | 2021小学期| 数据库实践       | [Langhuan-Blessed-Land](https://github.com/KuangjuX/Langhuan-Blessed-Land) |
-| 2021 秋季 | 计算机体系结构    | [MIPSCPU](https://github.com/KuangjuX/MIPSCPU)              |
+| 2021 秋季 | 计算机体系结构    | [SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)              |
 | 2021 秋季 | 异构计算         | [Heterogeneous-Lab](https://github.com/KuangjuX/Heterogeneous-Lab) |
 | 2021 秋季 | 计算机图形学      | [Graphics-Lab](https://github.com/KuangjuX/Graphics-Lab)|
 | 2021 秋季 | 数值分析         | [Numerical-Analysis](https://github.com/KuangjuX/Numerical-Analysis) |
