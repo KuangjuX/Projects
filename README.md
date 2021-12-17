@@ -30,8 +30,8 @@ Collection of undergraduate homework and labs and other.
 ### 一些我个人所学课程
 | 时间     | 课程               | 项目                                                         |
 | -------- | ------------------ | ------------------------------------------------------------ |
-| 2021秋季 | 分布式系统(MIT 6.824)     | [6.824](https://github.com/KuangjuX/6.824)           |
-| 2021秋季 | CMU 15-445         | [SimpleDB](https://github.com/KuangjuX/SimpleDB)             |
+| 2021秋季 | Distributed Systems(MIT 6.824)     | [6.824](https://github.com/KuangjuX/6.824)           |
+| 2021秋季 | Intro to Database Systems(CMU 15-445)         | [SimpleDB](https://github.com/KuangjuX/SimpleDB)             |
 
 
 ### 比赛项目
