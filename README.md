@@ -9,8 +9,8 @@ Collection of undergraduate homework and labs and other.
 
 | 时间     | 课程               | 项目                                                         |
 | -------- | ------------------ | ------------------------------------------------------------ |
-| 2020春季 | 计算机系统基础     | [CSAPP-Lab](https://github.com/KuangjuX/ICS-Lab)           |
-| 2020春季 | 数据结构           | [Data-Structure-Homework](https://github.com/KuangjuX/DS-Lab) |
+| 2020春季 | 计算机系统基础     | [ICS-Lab](https://github.com/KuangjuX/ICS-Lab)           |
+| 2020春季 | 数据结构           | [DS-Lab](https://github.com/KuangjuX/DS-Lab) |
 | 2020秋季 | 算法设计与分析     | [Algorithm-Lab](https://github.com/KuangjuX/Algorithm-Lab)   |
 | 2020秋季 | 操作系统           | [OS-Lab](https://github.com/KuangjuX/OS-Lab) |
 | 2020秋季 | 计算机系统实践     | [NEMU](https://github.com/KuangjuX/NEMU2020)                 |
@@ -20,7 +20,7 @@ Collection of undergraduate homework and labs and other.
 | 2021春季 | 数字逻辑与数字系统 | [Digital-Lab](https://github.com/KuangjuX/Digital-Lab)       |
 | 2021春季 | 计算机网络         | [Network-Lab](https://github.com/KuangjuX/Network-Lab) |
 | 2021春季 | 人工智能基础       | [AI-Lab](https://github.com/KuangjuX/AI-Lab)                 |
-| 2021小学期| 计算机网络实践    | [TrivialTCP](https://github.com/KuangjuX/Trivial-TCP)        |
+| 2021小学期| 计算机网络实践    | [Trivial-TCP](https://github.com/KuangjuX/Trivial-TCP)        |
 | 2021小学期| 数据库实践       | [Langhuan-Blessed-Land](https://github.com/KuangjuX/Langhuan-Blessed-Land) |
 | 2021 秋季 | 计算机体系结构    | [SimpleMIPS](https://github.com/KuangjuX/SimpleMIPS)              |
 | 2021 秋季 | 异构计算         | [Heterogeneous-Lab](https://github.com/KuangjuX/Heterogeneous-Lab) |
