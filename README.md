@@ -34,6 +34,7 @@ Collection of undergraduate homework and labs and other.
 | 2021秋季 | rCore-Tutorial-v3  | [rCore-Tutorial-v3](https://github.com/KuangjuX/rCore-Tutorial-v3)            |
 | 2021秋季 | Distributed Systems(MIT 6.824)     | [6.824](https://github.com/KuangjuX/6.824)           |
 | 2021秋季 | Intro to Database Systems(CMU 15-445)         | [SimpleDB](https://github.com/KuangjuX/SimpleDB)             |
+| 2022 寒假 | OS(MIT 6.S081 ) | [xv6-riscv-solution](https://github.com/KuangjuX/xv6-riscv-solution) |
 
 
 ### 比赛项目
