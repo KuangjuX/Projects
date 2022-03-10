@@ -58,3 +58,4 @@ Collection of undergraduate homework and labs and other.
 | 2021寒假 | 博客社区后端                     | [Langhuan-Blessed-Land](https://github.com/KuangjuX/Langhuan-Blessed-Land) |
 | 2021寒假 | rCore                            | [rCore](https://github.com/KuangjuX/rCore)                   |
 | 2021春季 | 使用Typora代替LaTex编写天津大学课程论文                 |[TJU-typora-latex-theme](https://github.com/KuangjuX/TJU-typora-latex-theme)        |
+| 2021秋季 | 使用 Rust 语言用各种技术写的多个网络聊天室，没啥乱用 | [labs-net-rs](https://github.com/KuangjuX/labs-net-rs) |
