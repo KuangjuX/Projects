@@ -27,6 +27,7 @@ Collection of undergraduate homework and labs and other.
 | 2021 秋季 | 计算机图形学      | [Graphics-Lab](https://github.com/KuangjuX/Graphics-Lab)|
 | 2021 秋季 | 数值分析         | [Numerical-Analysis](https://github.com/KuangjuX/Numerical-Analysis) |
 | 2021 秋季 | 大数据分析理论与方法 | [hadoop-spark-Lab](https://github.com/KuangjuX/hadoop-spark-Lab) |
+| 2022 春季 | 高等计算机体系结构  | [tomasulo-emulator](https://github.com/KuangjuX/tomasulo-emulator) |
 
 ### 一些我个人所学课程
 | 时间     | 课程               | 项目                                                         |
@@ -41,9 +42,9 @@ Collection of undergraduate homework and labs and other.
 
 | 时间     | 比赛   | 项目                                             | 描述 |
 | -------- | ------ | ------------------------------------------------ |------|
-| 2021暑假 | 开源之夏 | [rCore-fat](https://github.com/KuangjuX/rCore-fat)| FAT32系统的rCore-Tutorial |
-| 2021春季 | OSCOMP | [xv6-rust](https://github.com/Ko-oK-OS/xv6-rust) |使用Rust对xv6-riscv的重新实现|
-| 2021春季 | OSCOMP | [allocator](https://github.com/Ko-oK-OS/allocator) |伙伴内存分配系统|
+| 2021暑假 | 开源之夏 2021 | [rCore-fat](https://github.com/KuangjuX/rCore-fat)| FAT32系统的rCore-Tutorial |
+| 2021春季 | 第一届 OSCOMP | [xv6-rust](https://github.com/Ko-oK-OS/xv6-rust) |使用Rust对xv6-riscv的重新实现|
+| 2021春季 | 第一届 OSCOMP | [allocator](https://github.com/Ko-oK-OS/allocator) |伙伴内存分配系统|
 
 ### 个人参与的项目
 
