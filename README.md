@@ -27,7 +27,7 @@ Collection of undergraduate homework and labs and other.
 | 2021 秋季 | 计算机图形学      | [Graphics-Lab](https://github.com/KuangjuX/Graphics-Lab)|
 | 2021 秋季 | 数值分析         | [Numerical-Analysis](https://github.com/KuangjuX/Numerical-Analysis) |
 | 2021 秋季 | 大数据分析理论与方法 | [hadoop-spark-Lab](https://github.com/KuangjuX/hadoop-spark-Lab) |
-| 2022 春季 | 高等计算机体系结构  | [tomasulo-emulator](https://github.com/KuangjuX/tomasulo-emulator) |
+| 2022 春季 | 高等计算机体系结构  | [bp-emulator](https://github.com/KuangjuX/bp-emulator), [tomasulo-emulator](https://github.com/KuangjuX/tomasulo-emulator) |
 
 ### 一些我个人所学课程
 | 时间     | 课程               | 项目                                                         |
