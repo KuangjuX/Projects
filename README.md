@@ -49,18 +49,3 @@ Collection of undergraduate homework and labs and other.
 | 2021春季 | 第一届 OSCOMP | [allocator](https://github.com/Ko-oK-OS/allocator) | 伙伴内存分配系统 |
 | 2021暑假 | 开源之夏 2021 | [rCore-fat](https://github.com/KuangjuX/rCore-fat)| FAT32 系统的 rCore-Tutorial |
 | 2022春季 | 第六届 龙芯杯 | [ChiselMIPS](https://github.com/NSCSCC-2022-TJU/ChiselMIPS) | 使用 Chisel 实现的 MIPS 处理器 |
-
-### 个人参与的项目
-
-| 时间     | 内容                             | 项目                                                         |
-| -------- | -------------------------------- | ------------------------------------------------------------ |
-| 2020寒假 | 留言板                           | [Message-Board](https://github.com/KuangjuX/Message-Board)   |
-| 2020春季 | TWT-OA系统                       | [TWT-AT](https://github.com/TWT-At/Server)                   |
-| 2020秋季 | 简易数据库（未完成）             | [Naive-DataBase](https://github.com/KuangjuX/Naive-DataBase) |
-| 2020秋季 | 校务专区管理后台                 | [School-Affiars-Admin](https://github.com/CALLMELARE/School-Affairs-Platform)                                     |
-| 2021寒假 | 知乎热榜定时爬虫                 | [ZhiHu-Top-Spider](https://github.com/KuangjuX/ZhiHu-Top-Spider) |
-| 2021寒假 | 手写递归下降json解析器（未完成） | [leptjson](https://github.com/KuangjuX/leptjson)             |
-| 2021寒假 | 博客社区后端                     | [Langhuan-Blessed-Land](https://github.com/KuangjuX/Langhuan-Blessed-Land) |
-| 2021寒假 | rCore                            | [rCore](https://github.com/KuangjuX/rCore)                   |
-| 2021春季 | 使用Typora代替LaTex编写天津大学课程论文                 |[TJU-typora-latex-theme](https://github.com/KuangjuX/TJU-typora-latex-theme)        |
-| 2021秋季 | 使用 Rust 语言用各种技术写的多个网络聊天室，没啥卵用 | [labs-net-rs](https://github.com/KuangjuX/labs-net-rs) |
