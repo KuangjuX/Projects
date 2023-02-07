@@ -29,6 +29,8 @@ Collection of undergraduate homework and labs and other.
 | 2021 秋季 | 大数据分析理论与方法 | [hadoop-spark-Lab](https://github.com/KuangjuX/hadoop-spark-Lab) |
 | 2022 春季 | 高等计算机体系结构  | [bp-emulator](https://github.com/KuangjuX/bp-emulator), [tomasulo-emulator](https://github.com/KuangjuX/tomasulo-emulator) |
 | 2022 春季 | 编译原理 | [sql-lexer](https://github.com/KuangjuX/sql-lexer) |
+| 2022 秋季 | 编译实践 | [minigo](https://github.com/KuangjuX/minigo) |
+| 2023 春季 | 毕业设计 | [hypocaust](https://github.com/KuangjuX/hypocaust) |
 
 ### 一些我个人所学课程
 | 时间     | 课程               | 项目                                                         |
@@ -43,9 +45,10 @@ Collection of undergraduate homework and labs and other.
 
 | 时间     | 比赛   | 项目                                             | 描述 |
 | -------- | ------ | ------------------------------------------------ |------|
-| 2021暑假 | 开源之夏 2021 | [rCore-fat](https://github.com/KuangjuX/rCore-fat)| FAT32系统的rCore-Tutorial |
-| 2021春季 | 第一届 OSCOMP | [xv6-rust](https://github.com/Ko-oK-OS/xv6-rust) |使用Rust对xv6-riscv的重新实现|
-| 2021春季 | 第一届 OSCOMP | [allocator](https://github.com/Ko-oK-OS/allocator) |伙伴内存分配系统|
+| 2021春季 | 第一届 OSCOMP | [xv6-rust](https://github.com/Ko-oK-OS/xv6-rust) |使用 Rust 对 xv6-riscv 的重新实现|
+| 2021春季 | 第一届 OSCOMP | [allocator](https://github.com/Ko-oK-OS/allocator) | 伙伴内存分配系统 |
+| 2021暑假 | 开源之夏 2021 | [rCore-fat](https://github.com/KuangjuX/rCore-fat)| FAT32 系统的 rCore-Tutorial |
+| 2022春季 | 第六届 龙芯杯 | [ChiselMIPS](https://github.com/NSCSCC-2022-TJU/ChiselMIPS) | 使用 Chisel 实现的 MIPS 处理器 |
 
 ### 个人参与的项目
 
