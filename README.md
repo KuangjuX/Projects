@@ -30,7 +30,7 @@ Collection of undergraduate homework and labs and other.
 | 2022 春季 | 高等计算机体系结构  | [bp-emulator](https://github.com/KuangjuX/bp-emulator), [tomasulo-emulator](https://github.com/KuangjuX/tomasulo-emulator) |
 | 2022 春季 | 编译原理 | [sql-lexer](https://github.com/KuangjuX/sql-lexer) |
 | 2022 秋季 | 编译实践 | [minigo](https://github.com/KuangjuX/minigo) |
-| 2023 春季 | 毕业设计 | [hypocaust](https://github.com/KuangjuX/hypocaust) |
+| 2023 春季 | 毕业设计 | [hypocaust](https://github.com/KuangjuX/hypocaust), [hypocaust-2](https://github.com/KuangjuX/hypocaust-2) |
 
 ### 一些我个人所学课程
 | 时间     | 课程               | 项目                                                         |
