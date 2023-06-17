@@ -49,3 +49,10 @@ Collection of undergraduate homework and labs and other.
 | 2021春季 | 第一届 OSCOMP | [allocator](https://github.com/Ko-oK-OS/allocator) | 伙伴内存分配系统 |
 | 2021暑假 | 开源之夏 2021 | [rCore-fat](https://github.com/KuangjuX/rCore-fat)| FAT32 系统的 rCore-Tutorial |
 | 2022春季 | 第六届 龙芯杯 | [ChiselMIPS](https://github.com/NSCSCC-2022-TJU/ChiselMIPS) | 使用 Chisel 实现的 MIPS 处理器 |
+
+### 其他
+
+| 项目     | 描述   | 
+| -------- | ------ |
+| [hypercraft](https://github.com/KuangjuX/hypercraft) | 使用 Rust 语言编写的 VMM 库 |  
+| [ixgbe-drivers](https://github.com/KuangjuX/ixgbe-driver) | 使用 Rust 语言编写的 Intel 82599 10Gb 网卡驱动 | 
